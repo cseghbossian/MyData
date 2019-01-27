@@ -10,4 +10,4 @@ The goal of this project was to create my own database that utilized the BTree d
   - store
   - drop
   
- Special thanks to Professor Sassan Barkeshli who pushed me beyond my limits and taught me how to teach myself.
+ Special thanks to Professor Sassan Barkeshli.
