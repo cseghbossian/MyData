@@ -9,5 +9,3 @@ The goal of this project was to create my own database that utilized the BTree a
   - load
   - store
   - drop
-  
- Special thanks to Professor Sassan Barkeshli.
